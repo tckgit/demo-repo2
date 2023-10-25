@@ -1,7 +1,3 @@
-#DEMO
+# Demo 2
 
-Some description!
-
-## Subheader
-
-Watch tutorial on YouTube.
+Some text
